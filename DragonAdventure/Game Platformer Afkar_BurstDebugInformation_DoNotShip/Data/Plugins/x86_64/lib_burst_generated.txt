@@ -1,4 +1,4 @@
-Library: C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\user\Unity Project\dragon-adventure\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-15
 --target=X64_SSE2
@@ -53,10 +53,10 @@ Library: C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\Burst
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="Game Platformer Afkar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Library\Burst
---output=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Users\user\Unity Project\dragon-adventure\Temp\Burst
+--key-folder=C:/Users/user/Documents/abi/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=C:\Users\user\Unity Project\dragon-adventure\Library\Burst
+--output=C:\Users\user\Unity Project\dragon-adventure\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -144,10 +144,10 @@ Library: C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\Burst
 --assembly-defines=mscorlib;
 --linker-options=PdbAltPath="Game Platformer Afkar_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Library\Burst
---output=C:\Users\Cinka\Documents\Unity Project\Game Platformer Afkar\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Users\user\Unity Project\dragon-adventure\Temp\Burst
+--key-folder=C:/Users/user/Documents/abi/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=C:\Users\user\Unity Project\dragon-adventure\Library\Burst
+--output=C:\Users\user\Unity Project\dragon-adventure\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10

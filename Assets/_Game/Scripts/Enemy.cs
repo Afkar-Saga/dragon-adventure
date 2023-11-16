@@ -25,17 +25,14 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Collision detected");
         if (collision.gameObject.CompareTag("Death"))
         {
-            Debug.Log("Death");
             Attacked();
         }
     }
 
     void Attacked()
     {
-        Debug.Log("I got attacked!");
         nyawaMusuh--;
         anim.SetTrigger("Hit");
     }
